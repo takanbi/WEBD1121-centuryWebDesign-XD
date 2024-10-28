@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#container {
+  width: 1920px;
+  height: 1080px;
+  background-color: #0f015d;
+  /* background: transparent url('../PNG/Rectangle 42.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+}
+section#group4 {
+  position: relative;
+  top: 17px;
+  left: -435.7817077636719px;
+  width: 552px;
+  height: 552px;
+  background: transparent url("../PNG/Group 4.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+section#hatched3 {
+  position: absolute;
+  top: 154px;
+  left: 984px;
+  width: 292px;
+  height: 447px;
+  transform: rotate(180deg);
+  background: transparent url("../SVG/hatched_3.svg") 0% 0% no-repeat
+    padding-box;
+  /* background: transparent url('../PNG/hatched3.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+}
+section#web-design {
+  position: absolute;
+  top: 41px;
+  left: 149px;
+  width: 612px;
+  height: 122px;
+  font-family: Arial Black;
+  font-size: 86px;
+  color: #fff;
+  line-height: 122px;
+}
+@font-face {
+  font-family: cochin;
+  src: url(../CochinBold.ttf);
+}
+section#century-college {
+  position: absolute;
+  top: 148px;
+  left: 149px;
+  width: 455px;
+  height: 74px;
+  color: #fffcfc;
+  font-size: 64px;
+  line-height: 74px;
+  font-family: cochin;
+}
+section#vct {
+  position: absolute;
+  top: 228px;
+  left: 150px;
+  width: 712px;
+  height: 243px;
+  background: transparent url("../PNG/VISUAL COMMUNITCATIONS TECHNOLOGY.png") 0%
+    0% no-repeat padding-box;
+  box-shadow: 4px 3px 6px #0000007b;
+  opacity: 1;
+}
+section#rect47 {
+  position: absolute;
+  top: 213px;
+  left: 133px;
+  width: 745px;
+  height: 258px;
+  background: transparent url("../PNG/Rectangle 47.png") 0% 0% no-repeat
+    padding-box;
+  mix-blend-mode: color-dodge;
+  border: 1px solid #ffffff;
+  opacity: 0.39;
+}
+section#txt2021 {
+  position: absolute;
+  top: -98px;
+  left: 530px;
+  width: 1140px;
+  height: 639px;
+  font-size: 549px;
+  line-height: 639px;
+  font-family: cochin;
+  font-weight: bold;
+  color: #fff;
+  opacity: 0.35;
+}
+section#mask-g1 {
+  position: absolute;
+  top: 26px;
+  left: 1363px;
+  width: 360px;
+  height: 367px;
+  /* UI Properties */
+  background: transparent url("../PNG/Mask Group 1.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 0.6;
+}
+section#path17 {
+position: absolute;
+top: -105.35598754882812px;
+left: 984px;
+width: 180px;
+height: 190px;
+/* border: 3px solid var(--unnamed-color-ffffff); */
+/* background: transparent url('../SVG/Path 17.svg') 0% 0% no-repeat padding-box; */
+background: transparent url('../PNG/Path 17.png') 0% 0% no-repeat padding-box;
+border-bottom: 3px solid #FFFFFF;
+opacity: 1;
+}
